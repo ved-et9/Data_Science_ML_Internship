@@ -37,7 +37,7 @@ For specific versions of required imports check requirements.txt
 
 ## Contact
 
-Your Name - vedant7699@gmail.com.com
+Vedant singh - vedant7699@gmail.com.com
 
 Project Link: (https://github.com/ved-et9/Data_Science_intern__at_Sooosoftwares)
 
