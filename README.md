@@ -61,11 +61,11 @@ There are some of the resources which i find helpful and would like to give cred
 * [py Image Search](https://pyimagesearch.com/)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/badge/contributors-1-brightgreen
 [contributors-url]: https://github.com/ved-et9/Data_Science_intern__at_Sooosoftwares/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/badge/Forks-0-blue
 [forks-url]: https://github.com/ved-et9/Data_Science_intern__at_Sooosoftwares/forks
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/badge/Stars-2-blue
 [stars-url]: https://github.com/ved-et9/Data_Science_intern__at_Sooosoftwares/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vedant-singh-13774b225/
